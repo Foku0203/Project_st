@@ -9,7 +9,7 @@ Auther
 
 * technology: streamlit
 
-** presentation :[slide present](https://www.canva.com/design/DAF_hJxcYgg/7OP0dKAu-ysoPTtiCAVtkA/edit?utm_content=DAF_hJxcYgg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* presentation :[slide present](https://www.canva.com/design/DAF_hJxcYgg/7OP0dKAu-ysoPTtiCAVtkA/edit?utm_content=DAF_hJxcYgg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-** video: link Video present ยังไม่ได้ทำวิดีโอ
+* video: link Video present ยังไม่ได้ทำวิดีโอ
 
