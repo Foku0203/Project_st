@@ -9,6 +9,11 @@ Auther
 
 * technology: streamlit
 
+* appication description:
+  1.ตรวจสุขภาพร่างกายของผู้ใช้งานว่าอยู่ในเกณฑ์ที่เหมาะสมหรือไม่
+  2.สามารถบอกได้ว่าหากมีอาการป่วยทั่วไปสามารถรับประทานยาชนิดไหนจะเหมาะสมและมีประสิทธิภาพมากที่สุด
+  3.แนะนำยา ที่มาของการเกิดโรค และคู่มือก่อนการใช้งานยา
+
 * presentation :[slide present](https://www.canva.com/design/DAF_hJxcYgg/7OP0dKAu-ysoPTtiCAVtkA/edit?utm_content=DAF_hJxcYgg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 * video: link Video present ยังไม่ได้ทำวิดีโอ
