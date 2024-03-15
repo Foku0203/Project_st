@@ -1,6 +1,6 @@
 import streamlit as st
 import datetime
-import math
+
 
 class CombatMedic:
 
