@@ -1,6 +1,6 @@
 import streamlit as st
 import datetime
-
+import math
 
 class CombatMedic:
 
@@ -16,8 +16,13 @@ class CombatMedic:
         birthdate = st.date_input("กรอกอายุของคุณ", min_value=datetime.date(1800, 1, 1), max_value=datetime.date.today())
         
         if st.button("คำนวณ BMI"):
-            bmi = weigh / ((high / 100) ** 2)
-            st.write(f"ตอนนี้คุณอายุ {birthdate} ปี")
+            if st.button("คำนวณ BMI"):
+                bmi = weigh / ((high / 100) ** 2)
+                today = datetime.date.today()
+                age = today.year - birthdate.year - ((today.month, today.day) < (birthdate.month, birthdate.day))
+                st.write(f" ตอนนี้คุณอายุ {age} ปี") 
+
+            
             if bmi < 18.50:
                 st.error(f"ค่า BMI ของคุณคือ: {bmi:.2f} ต่ำกว่าเกณฑ์")
             elif bmi < 22.90:
